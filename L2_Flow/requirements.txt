@@ -27,7 +27,8 @@ typing-inspect==0.9.0
 typing_extensions==4.9.0
 urllib3==2.1.0
 yarl==1.9.4
-better_profanity==0.7.0presidio-analyzer[transformers]
+better_profanity==0.7.0
+presidio-analyzer[transformers]
 presidio-analyzer[stanza]
 presidio-anonymizer
 pandas
